@@ -1,5 +1,13 @@
 #NULL tools
 
+===========
+installation
+===========
+
+```
+git clone https://github.com/NULL-ai-Industries/NULL-tools
+```
+
 to use this tool Python MUST be installed
 
 To run make sure python is installed and then run:
